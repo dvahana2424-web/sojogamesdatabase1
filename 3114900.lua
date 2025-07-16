@@ -1,0 +1,12 @@
+-- MAIN APPLICATION
+addappid(3114900) -- DREAD FLATS
+
+-- MAIN APP DEPOTS
+addappid(3114901, 1, "edf860798dc72b4e2772f638655e92816bb02c130ff60b5a2c2fe460e48f2b45") -- Depot 3114901
+setManifestid(3114901, "1989290022633816899", 0)
+
+-- SHARED DEPOTS (from other apps)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (Shared from App 228980)
+setManifestid(228989, "550968249685141759", 0)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (Shared from App 228980)
+setManifestid(228990, "1829726630299308803", 0)

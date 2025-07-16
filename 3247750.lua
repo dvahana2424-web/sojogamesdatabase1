@@ -1,0 +1,6 @@
+-- MAIN APPLICATION
+addappid(3247750) -- Mycopunk
+
+-- MAIN APP DEPOTS
+addappid(3247751, 1, "888bdd148939bec18022ebea7b4041f7d8a6de44b5779a16ded755e6917cea6f") -- Depot 3247751
+setManifestid(3247751, "7966528652554697214", 0)

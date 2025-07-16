@@ -1,0 +1,11 @@
+-- MAIN APPLICATION
+addappid(3320980) -- MoteMancer
+
+-- MAIN APP DEPOTS
+addappid(3320981, 1, "b8d101cae7f369a8a2a8003e6616f31198520e04e0df0b6e7404453062288e3a") -- Depot 3320981
+setManifestid(3320981, "558798339393121428", 0)
+
+-- EXCLUDED DLCS:
+-- DLCS EXCLUDED (MISSING DEPOT KEYS)
+-- MoteMancer Soundtrack (AppID: 3849110) - missing depot keys
+-- addappid(3849110)

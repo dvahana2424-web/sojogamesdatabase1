@@ -1,0 +1,6 @@
+-- MAIN APPLICATION
+addappid(3460110) -- 天地有私，宿命之主
+
+-- MAIN APP DEPOTS
+addappid(3460111, 1, "d03ec0d3fcbaddda47fe14e2b82f56e030fb49d36adf609f3b33407e95183e75") -- Depot 3460111
+setManifestid(3460111, "6618849297661024666", 0)

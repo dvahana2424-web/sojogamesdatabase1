@@ -1,0 +1,6 @@
+-- MAIN APPLICATION
+addappid(3466680) -- Magical Girl Opal
+
+-- MAIN APP DEPOTS
+addappid(3466681, 1, "8c8dd4c48406b498dbaf8ac181676538e706634a5a8b3ae1a0f03d7374bed733") -- Depot 3466681
+setManifestid(3466681, "9202602952359269751", 0)

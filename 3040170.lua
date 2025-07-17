@@ -1,0 +1,6 @@
+-- MAIN APPLICATION
+addappid(3040170) -- Arashi Gaiden
+
+-- MAIN APP DEPOTS
+addappid(3040171, 1, "ed860d978363fecd3be9bfe747dba050ecfd547babee8bedc36c656807388080") -- Depot 3040171
+setManifestid(3040171, "5709806629451893282", 0)

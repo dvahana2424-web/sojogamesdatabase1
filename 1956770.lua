@@ -1,0 +1,6 @@
+-- MAIN APPLICATION
+addappid(1956770) -- M.O.O.D.S.
+
+-- MAIN APP DEPOTS
+addappid(1956771, 1, "b006456130ecd9204f6ac2683f82defa9effa298cfbad50ef7b6dec424d74446") -- Depot 1956771
+setManifestid(1956771, "3270752813985230667", 0)

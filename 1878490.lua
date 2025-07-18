@@ -1,0 +1,6 @@
+-- MAIN APPLICATION
+addappid(1878490) -- Gales of Nayeli
+
+-- MAIN APP DEPOTS
+addappid(1878494, 1, "9663fd6df002fa97f1bbfc1c75e123021d54a132bd430e3dbf6084d8559ac975") -- Depot 1878494
+setManifestid(1878494, "2165720545003631363", 0)

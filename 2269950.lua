@@ -1,0 +1,6 @@
+-- MAIN APPLICATION
+addappid(2269950) -- The Karters 2: Turbo Charged
+
+-- MAIN APP DEPOTS
+addappid(2269951, 1, "8831fc2d89d3edc51afe5f2405b6694c493318df489caef0602335566ee648bf") -- Depot 2269951
+setManifestid(2269951, "1291507890753951359", 0)

@@ -1,4 +1,3 @@
---B-I-A-O
 addappid(3008130)
 addappid(228983)
 addappid(228989)
@@ -15,20 +14,8 @@ addappid(3592041,0,"32f10ad2de76688dc0970aebede422b2921593489edc03e6e1e90d447aeb
 addappid(3707621,0,"04cd9ab87835457d4a64c2e33c8bfb34ec9873a58306082dd1554fa31e61b08c")
 addappid(3707622,0,"dbba296c59b4dd12cfbf3e831d228341905cbfe72a6f39b9ab9ab535e2aa2390")
 addappid(3707623,0,"e7a49cf3e8049304b31ac9af2380050346b19274b6429680fa656ca2ef8132ff")
---addappid(3008131)本地无对应ID
---addappid(3008136)本地无对应ID
---addappid(3008137)本地无对应ID
---addappid(3008138)本地无对应ID
---addappid(3061861)本地无对应ID
---addappid(3061862)本地无对应ID
---addappid(3061863)本地无对应ID
---addappid(3061864)本地无对应ID
---addappid(3061865)本地无对应ID
---addappid(3061866)本地无对应ID
---addappid(3061867)本地无对应ID
---addappid(3061868)本地无对应ID
---addappid(3061869)本地无对应ID
---addappid(3592042)本地无对应ID
---addappid(3592043)本地无对应ID
---addappid(3592044)本地无对应ID
---addappid(3592047)本地无对应ID
+setManifestid(3008132, "4736842126314942335",)
+setManifestid(3008133, "1985368490837329254",)
+setManifestid(3008134, "7424448091867469272",)
+setManifestid(3008135, "5362655515814500238",)
+setManifestid(3592041, "505907278804388064",)

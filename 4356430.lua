@@ -1,12 +1,3 @@
--- 4356430's Lua and Manifest Created by Hubcap Manifest
--- NBA 2K27
--- Created: August 26, 2026 at 13:12:22 EDT
--- Website: https://hubcapmanifest.com/
--- Total Depots: 3
--- Total DLCs: 4
--- Shared Depots: 1
-
--- MAIN APPLICATION
 addappid(4356430) -- NBA 2K27
 addtoken(4356430, "13716260120817756824")
 -- MAIN APP DEPOTS
